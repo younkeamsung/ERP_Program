@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\KoreaIt\\ERP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|d:\\koreait\\erp\\erp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|d:\\koreait\\erp\\erp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|solutionrelative:erp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|D:\\KoreaIt\\ERP\\erp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|solutionrelative:erp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|D:\\KoreaIt\\ERP\\erp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F0CE1ED-882A-4352-A06B-7829020A3F31}|ERP\\ERP.csproj|solutionrelative:erp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,26 +35,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\KoreaIt\\ERP\\ERP\\Customer.cs",
+              "RelativeDocumentMoniker": "ERP\\Customer.cs",
+              "ToolTip": "D:\\KoreaIt\\ERP\\ERP\\Customer.cs",
+              "RelativeToolTip": "ERP\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T04:23:17.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\KoreaIt\\ERP\\ERP\\Customer.cs",
+              "RelativeDocumentMoniker": "ERP\\Customer.cs",
+              "ToolTip": "D:\\KoreaIt\\ERP\\ERP\\Customer.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ERP\\Customer.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T04:23:15.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "D:\\KoreaIt\\ERP\\ERP\\Main.cs",
               "RelativeDocumentMoniker": "ERP\\Main.cs",
               "ToolTip": "D:\\KoreaIt\\ERP\\ERP\\Main.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "ERP\\Main.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T09:16:52.312Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2026-09-20T09:16:52.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "D:\\KoreaIt\\ERP\\ERP\\Login.cs",
               "RelativeDocumentMoniker": "ERP\\Login.cs",
               "ToolTip": "D:\\KoreaIt\\ERP\\ERP\\Login.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "ERP\\Login.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T09:16:43.652Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2026-09-20T09:16:43.652Z"
             }
           ]
         }
